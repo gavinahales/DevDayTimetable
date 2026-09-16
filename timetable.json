@@ -1,0 +1,28 @@
+[
+  { "time": "10:00", "room": "2516", "title": "Welcome" },
+
+  { "time": "10:20", "room": "4511", "title": "Submitting Your Best Work - Kerith George-Briant" },
+  { "time": "10:20", "room": "4510", "title": "Using AI at University – Salma ElSayed" },
+  { "time": "10:20", "room": "4506", "title": "Guest talk from Lloyds Bank: 'Cyber Defence: Skills in Action'" },
+
+  { "time": "11:10", "room": "4511", "title": "Submitting Your Best Work - Kerith George-Briant" },
+  { "time": "11:10", "room": "4510", "title": "Using AI at University – Salma ElSayed" },
+  { "time": "11:10", "room": "4506", "title": "Guest talk from Lloyds Bank: 'Cyber Defence: Skills in Action'" },
+
+  { "time": "12:00", "room": null, "title": "Break" },
+
+  { "time": "13:00", "room": "4511", "title": "Graduate Careers – Careers" },
+  { "time": "13:00", "room": "4510", "title": "Further Study Opportunities – Jamie O'hare" },
+  { "time": "13:00", "room": "4506", "title": "From Classroom to Career: Office 365 in Action - Karl Van Der Schyff" },
+
+  { "time": "13:50", "room": "4511", "title": "Internships – Careers" },
+  { "time": "13:50", "room": "4510", "title": "Further Study Opportunities – Jamie O'hare" },
+  { "time": "13:50", "room": "4506", "title": "From Classroom to Career: Office 365 in Action - Karl Van Der Schyff" },
+
+  { "time": "14:40", "room": null, "title": "Break" },
+
+  { "time": "15:00", "room": "2516", "title": "EH + CYB Fireside Chat" },
+  { "time": "15:00", "room": "2517", "title": "Computing + CompSci Activity" },
+
+  { "time": "16:00", "room": "1502 - Events Space", "title": "Pizza Party" }
+]
